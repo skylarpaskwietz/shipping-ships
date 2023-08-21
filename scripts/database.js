@@ -6,13 +6,13 @@ const database = {
         { id: 4, location: "Antwerp, Belgium", volume: "12.04" }
     ],
     haulers: [
-        {id: 1, name: "Pioneering Spirit", dockId: 4},
-        {id: 2, name: "Boaty McBoatface", dockId: 2},
-        {id: 3, name: "Seawise Giant", dockId: 1},
-        {id: 4, name: "Big Float", dockId: 3},
-        {id: 5, name: "He Who Floats", dockId: 2},
-        {id: 6, name: "Sara", dockId: 4},
-        {id: 7, name: "Violet", dockId: 3}
+        {id: 1, name: "Pioneering Spirit", dockid: 4},
+        {id: 2, name: "Boaty McBoatface", dockid: 2},
+        {id: 3, name: "Seawise Giant", dockid: 1},
+        {id: 4, name: "Big Float", dockid: 3},
+        {id: 5, name: "He Who Floats", dockid: 2},
+        {id: 6, name: "Sara", dockid: 4},
+        {id: 7, name: "Violet", dockid: 3}
     ],
     shippingShips: [
         {id: 1, name: "Esso Atlantic", haulerId: 1},
