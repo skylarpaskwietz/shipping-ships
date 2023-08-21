@@ -1,0 +1,11 @@
+.details {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+.detail--column {
+    flex-basis:55%;
+    margin: 1rem;
+    border: 3px dotted skyblue;
+}
